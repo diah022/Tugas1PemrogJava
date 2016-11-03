@@ -35,10 +35,15 @@ public class PolaSegitiga {
         
         switch(pil){
             case 1 : SegitgaKanan();
+                    break;
             case 2 : SegitigaTerbalikKanan();
+                    break;
             case 3 : SegitigaKiri();
+                    break;
             case 4 : SegitigaTerbalikKiri();
+                    break;
             case 5 : SegitigaSamaKaki();
+                    break;
         }
         
     }
@@ -123,7 +128,7 @@ public class PolaSegitiga {
             System.out.print("*");
           }
           System.out.print("*");
-            System.out.println();
+          System.out.println();
        }
     }
     
