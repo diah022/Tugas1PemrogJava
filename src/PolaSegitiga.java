@@ -34,10 +34,38 @@ public class PolaSegitiga {
         int pil = pilihan.nextInt();
         
         switch(pil){
-            
+            case 1 : SegitgaKanan();
+            case 2 : SegitigaTerbalikKanan();
+            case 3 : SegitigaKiri();
+            case 4 : SegitigaTerbalikKiri();
+            case 5 : SegitigaSamaKaki();
         }
         
     }
+
+    private void SegitgaKanan() {
+        inputBatasan(batasan);
+        
+        
+    }
+
+    private void SegitigaTerbalikKanan() {
+        
+    }
+
+    private void SegitigaKiri() {
+        
+    }
+
+    private void SegitigaTerbalikKiri() {
+        
+    }
+
+    private void SegitigaSamaKaki() {
+        
+    }
+    
+    
     
     
     
