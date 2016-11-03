@@ -110,10 +110,14 @@ public class PolaSegitiga {
        
        for(int f = 1; f <= batasan; f++)
        {
-          for(int g = 1; g <= 5-f; g++)
+          for(int g = 1; g <= batasan-f; g++)
+          {
+            System.out.print(" ");
+          } 
+          for(int h = 1; h <= f-1; h++)
             {
-                System.out.print(" ");
-            } 
+                System.out.print("*");
+            }
        }
     }
     
