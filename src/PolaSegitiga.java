@@ -107,6 +107,11 @@ public class PolaSegitiga {
 
     private void SegitigaSamaKaki() {
        inputBatasan(batasan); 
+       
+       for(int f = 1; f <= batasan; f++)
+       {
+           
+       }
     }
     
     
