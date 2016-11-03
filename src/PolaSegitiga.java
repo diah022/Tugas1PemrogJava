@@ -91,7 +91,10 @@ public class PolaSegitiga {
     private void SegitigaTerbalikKiri() {
         inputBatasan(batasan);
         
-        
+        for(int f = batasan; f > 0; f--)
+        {
+            
+        }
     }
 
     private void SegitigaSamaKaki() {
