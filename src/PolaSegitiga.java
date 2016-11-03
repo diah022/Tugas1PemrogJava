@@ -46,7 +46,7 @@ public class PolaSegitiga {
     private void SegitgaKanan() {
         inputBatasan(batasan);
         
-        for(int i = 0; i <= 6; i++)
+        for(int i = 0; i <= batasan; i++)
         {
             for(int j = 0; j <= i; j++)
             {
