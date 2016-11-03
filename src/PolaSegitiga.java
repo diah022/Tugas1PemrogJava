@@ -21,6 +21,9 @@ public class PolaSegitiga {
         return (this.batasan = batas);
     }
     
+    public void choices(){
+        
+    }
     
     
     
