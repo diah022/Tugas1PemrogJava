@@ -9,9 +9,7 @@ public class PolaSegitiga {
         this.batasan = batasan;
     }
     
-    public int input(int batas){
-        
-    }
+    
     
         
     
