@@ -60,7 +60,7 @@ public class PolaSegitiga {
     private void SegitigaTerbalikKanan() {
         inputBatasan(batasan);
         
-        for(int a = 6; a > 0; a--)
+        for(int a = batasan; a > 0; a--)
         {
             for(int b = a; b > 0; b--)
             {
