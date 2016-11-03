@@ -73,18 +73,9 @@ public class PolaSegitiga {
     private void SegitigaKiri() {
         inputBatasan(batasan);
         
-        for(int c = 1; c <= batasan; c++)
+        for(int c = 1; c <= 5; c++)
         {
-            for(int d = 1; d <= 5-c; d++)
-            {
-                System.out.print(" ");
-            }
-            for(int e = 1; e <= c-1; e++)
-            {
-                System.out.print("*");
-            }
-            System.out.print("*");
-            System.out.println();
+            
         }
     }
 
