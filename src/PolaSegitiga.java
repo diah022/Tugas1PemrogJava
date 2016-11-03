@@ -89,6 +89,8 @@ public class PolaSegitiga {
     }
 
     private void SegitigaTerbalikKiri() {
+        inputBatasan(batasan);
+        
         
     }
 
