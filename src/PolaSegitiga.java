@@ -93,7 +93,10 @@ public class PolaSegitiga {
         
         for(int f = batasan; f > 0; f--)
         {
-            
+            for(int g = 1; g > f-5; g--)
+            {
+                System.out.print(" ");
+            }
         }
     }
 
