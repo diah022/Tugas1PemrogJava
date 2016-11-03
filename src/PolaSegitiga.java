@@ -22,14 +22,20 @@ public class PolaSegitiga {
     }
     
     public void choices(){
-        System.out.println("Pilihan bentu karakter : \n "
+        System.out.println("Pilihan bentuk karakter : \n "
                 + "1. Segitiga Kanan \n "
                 + "2. Segitiga Terbalik Kanan \n "
                 + "3. Segitiga Kiri \n "
                 + "4. Segitiga Terbalik Kiri \n "
                 + "5. Segitiga Sama Kaki \n ");
         
+        Scanner pilihan = new Scanner(System.in);
+        System.out.println("Pilih bentuk karakter yang ingin tampil : ");
+        int pil = pilihan.nextInt();
         
+        switch(pil){
+            
+        }
         
     }
     
