@@ -75,7 +75,10 @@ public class PolaSegitiga {
         
         for(int c = 1; c <= 5; c++)
         {
-            
+            for(int d = 1; d <= 5-c; d++)
+            {
+                System.out.print(" ");
+            }
         }
     }
 
