@@ -115,6 +115,10 @@ public class PolaSegitiga {
             System.out.print(" ");
           } 
           for(int h = 1; h <= f-1; h++)
+          {
+            System.out.print("*");
+          }
+          for(int k = 1; k <= f-1; k++)
             {
                 System.out.print("*");
             }
