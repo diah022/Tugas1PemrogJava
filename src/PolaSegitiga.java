@@ -38,12 +38,7 @@ public class PolaSegitiga {
                     break;
             case 2 : SegitigaTerbalikKanan();
                     break;
-            case 3 : SegitigaKiri();
-                    break;
-            case 4 : SegitigaTerbalikKiri();
-                    break;
-            case 5 : SegitigaSamaKaki();
-                    break;
+            
         }
         
     }
