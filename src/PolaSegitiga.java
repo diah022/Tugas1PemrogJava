@@ -83,6 +83,8 @@ public class PolaSegitiga {
             {
                 System.out.print("*");
             }
+            System.out.print("*");
+            System.out.println();
         }
     }
 
