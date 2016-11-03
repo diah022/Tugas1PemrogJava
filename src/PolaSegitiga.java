@@ -30,6 +30,7 @@ public class PolaSegitiga {
                 + "5. Segitiga Sama Kaki \n ");
         
         
+        
     }
     
     
