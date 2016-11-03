@@ -22,6 +22,13 @@ public class PolaSegitiga {
     }
     
     public void choices(){
+        System.out.println("Pilihan bentu karakter : \n "
+                + "1. Segitiga Kanan \n "
+                + "2. Segitiga Terbalik Kanan \n "
+                + "3. Segitiga Kiri \n "
+                + "4. Segitiga Terbalik Kiri \n "
+                + "5. Segitiga Sama Kaki \n ");
+        
         
     }
     
